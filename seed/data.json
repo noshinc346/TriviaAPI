@@ -1,0 +1,458 @@
+[
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Japanese Anime &amp; Manga",
+    "question": "What year did &quot;Attack on Titan&quot; first air?",
+    "correct_answer": "2013",
+    "incorrect_answers": ["2014", "2012", "2015"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "The following Spanish provinces are located in the northern area of Spain except:",
+    "correct_answer": "Murcia",
+    "incorrect_answers": ["Asturias", "Navarre", "Le&oacute;n"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "How many kilobytes in one gigabyte (in decimal)?",
+    "correct_answer": "1000000",
+    "incorrect_answers": ["1024", "1000", "1048576"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Board Games",
+    "question": "The board game &quot;Monopoly&quot; is a variation of what board game?",
+    "correct_answer": "The Landlord&#039;s Game",
+    "incorrect_answers": [
+      "Territorial Dispute",
+      "Property Feud",
+      "The Monopolist&#039;s Game"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Television",
+    "question": "What does Bart sell his soul for in The Simpsons episode &#039;Bart Sells His Soul&#039;?",
+    "correct_answer": "$5",
+    "incorrect_answers": ["A Copy of Bonestorm 2", "$100", "A Giant Gobstopper"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Music",
+    "question": "In the Panic! At the Disco&#039;s song &quot;Nothern Downpour&quot;, which lyric follows &#039;I know the world&#039;s a broken bone&#039;.",
+    "correct_answer": "&quot;So melt your headaches call it home&quot;",
+    "incorrect_answers": [
+      "&quot;So sing your song until you&#039;re home&quot;",
+      "&quot;So let them know they&#039;re on their own&quot;",
+      "&quot;So start a fire in their cold stone&quot;"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Sports",
+    "question": "This Canadian television sportscaster is known for his &quot;Hockey Night in Canada&quot; role, a commentary show during hockey games.",
+    "correct_answer": "Don Cherry",
+    "incorrect_answers": ["Don McKellar", "Don Taylor ", "Donald Sutherland"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Japanese Anime &amp; Manga",
+    "question": "In the &quot;To Love-Ru&quot; series, how many Trans-weapons were created?",
+    "correct_answer": "3",
+    "incorrect_answers": ["1", "2", "4"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "Which of these is the name of a Japanese system of alternative medicine, literally meaning &quot;finger pressure&quot;?",
+    "correct_answer": "Shiatsu",
+    "incorrect_answers": ["Ukiyo", "Majime", "Ikigai"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Japanese Anime &amp; Manga",
+    "question": "Which of the following anime of the mecha genre began airing in 1982?",
+    "correct_answer": "The Super Dimension Fortress Macross",
+    "incorrect_answers": [
+      "Mobile Suit Gundam",
+      "Armored Trooper VOTOMS",
+      "Neon Genesis Evangelion"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Mathematics",
+    "question": "What is the symbol for Displacement?",
+    "correct_answer": "&Delta;r",
+    "incorrect_answers": ["dr", "Dp", "r"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "What are the three starter Pokemon available in Pokemon Black and White?",
+    "correct_answer": "Snivy, Tepig, Oshawott",
+    "incorrect_answers": [
+      "Snivy, Fennekin, Froakie",
+      "Chespin, Tepig, Froakie",
+      "Chespin, Fennekin, Oshawott"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "In CSS, which of these values CANNOT be used with the &quot;position&quot; property?",
+    "correct_answer": "center",
+    "incorrect_answers": ["static", "absolute", "relative"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "What does the &#039;S&#039; stand for in the abbreviation SIM, as in SIM card? ",
+    "correct_answer": "Subscriber",
+    "incorrect_answers": ["Single", "Secure", "Solid"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Animals",
+    "question": "How many teeth does an adult rabbit have?",
+    "correct_answer": "28",
+    "incorrect_answers": ["30", "26", "24"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Gadgets",
+    "question": "What are the base station trackers used for the HTC Vive called?",
+    "correct_answer": "Lighthouse",
+    "incorrect_answers": ["Motion", "Constellation ", "Trackers"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Music",
+    "question": "Which classical composer wrote the &quot;Moonlight Sonata&quot;?",
+    "correct_answer": "Ludvig Van Beethoven",
+    "incorrect_answers": [
+      "Chief Keef",
+      "Wolfgang Amadeus Mozart",
+      "Johannes Brahms"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Which of 2 Valve Games are set in the same universe?",
+    "correct_answer": "Half-life and Portal",
+    "incorrect_answers": [
+      "Portal and Left 4 Dead",
+      "Half-life and Left 4 Dead",
+      "Half-life and Counter Strike"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "What is the largest non-continental island in the world?",
+    "correct_answer": "Greenland",
+    "incorrect_answers": ["New Guinea", "Borneo", "Madagascar"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Music",
+    "question": "What was the name of the hip hop group Kanye West was a member of in the late 90s?",
+    "correct_answer": "The Go-Getters",
+    "incorrect_answers": ["The Jumpers", "The Kickstarters", "The Beat-Busters"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Music",
+    "question": "What song on ScHoolboy Q&#039;s album Black Face LP featured Kanye West?",
+    "correct_answer": "THat Part",
+    "incorrect_answers": ["Neva CHange", "Big Body", "Blank Face"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Japanese Anime &amp; Manga",
+    "question": "Which one of these Manga titles was not created by Urasawa Naoki?",
+    "correct_answer": "My Father&#039;s Journal",
+    "incorrect_answers": ["Billy Bat", "20th Century Boys", "Monster"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "When did the online streaming service &quot;Mixer&quot; launch?",
+    "correct_answer": "2016",
+    "incorrect_answers": ["2013", "2009", "2011"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Film",
+    "question": "Who plays the character of Po in the Kung Fu Panda movies?",
+    "correct_answer": "Jack Black",
+    "incorrect_answers": ["Mirana Jonnes", "McConahey Ramses", "Jim Petersson"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Books",
+    "question": "Who wrote the novel &quot;Moby-Dick&quot;?",
+    "correct_answer": "Herman Melville",
+    "incorrect_answers": [
+      "William Golding",
+      "William Shakespeare",
+      "J. R. R. Tolkien"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Japanese Anime &amp; Manga",
+    "question": "Which Japanese music group was formed to produce theme music for the anime &quot;Guilty Crown&quot;?",
+    "correct_answer": "Egoist",
+    "incorrect_answers": ["Goose house", "Babymetal", "Garnidelia"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "History",
+    "question": "Which King of England was faced with the Peasants&#039; Revolt in 1381?",
+    "correct_answer": "Richard II",
+    "incorrect_answers": ["Edward III", "Edward II", "Henry IV"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "What is a &quot;dakimakura&quot;?",
+    "correct_answer": "A body pillow",
+    "incorrect_answers": [
+      "A Chinese meal, essentially composed of fish",
+      "A yoga posture",
+      "A word used to describe two people who truly love each other"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Gadgets",
+    "question": "Which virtual assistant is developed by Amazon?",
+    "correct_answer": "Alexa",
+    "incorrect_answers": ["Google Assistant", "Siri", "Cortana"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Animals",
+    "question": "Which species is a &quot;mountain chicken&quot;?",
+    "correct_answer": "Frog",
+    "incorrect_answers": ["Chicken", "Horse", "Fly"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "What does the term MIME stand for, in regards to computing?",
+    "correct_answer": "Multipurpose Internet Mail Extensions",
+    "incorrect_answers": [
+      "Mail Internet Mail Exchange",
+      "Multipurpose Interleave Mail Exchange",
+      "Mail Interleave Method Exchange"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Television",
+    "question": "Which of the following was not an actor/actress on the American television show &quot;Saturday Night Live&quot; in Season 42?",
+    "correct_answer": "Tina Fey",
+    "incorrect_answers": ["Mikey Day", "Kate McKinnon", "Sasheer Zamata"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Video Games",
+    "question": "In the Lego Island trilogy, who taught Pepper Roni how to read?",
+    "correct_answer": "Officer Laura Brick",
+    "incorrect_answers": [
+      "Papa Brickolini",
+      "Officer Nick Brick",
+      "Mama Brickolini"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "Enzo Ferrari was originally an auto racer for what manufacturer before founding his own car company?",
+    "correct_answer": "Alfa Romeo",
+    "incorrect_answers": ["Auto Union", "Mercedes Benz", "Bentley"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Video Games",
+    "question": "In &quot;Call Of Duty: Zombies&quot;, which weapon does NOT deal any damage?",
+    "correct_answer": "31-79 JGb215",
+    "incorrect_answers": ["Sliquifier", "V-R11", "Wunderwaffe DG-2"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Animals",
+    "question": "What does &quot;hippopotamus&quot; mean and in what langauge?",
+    "correct_answer": "River Horse (Greek)",
+    "incorrect_answers": [
+      "River Horse (Latin)",
+      "Fat Pig (Greek)",
+      "Fat Pig (Latin)"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science &amp; Nature",
+    "question": "What is the study of the cells and tissues of plants and animals?",
+    "correct_answer": "Histology",
+    "incorrect_answers": ["Microbiology", "Anatomy", "Biochemistry"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "In the PAYDAY series, who betrayed the PAYDAY gang that got Hoxton arrested?",
+    "correct_answer": "Hector",
+    "incorrect_answers": ["Vlad", "The Dentist", "The Elephant"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Vehicles",
+    "question": "What part of an automobile engine uses lobes to open and close intake and exhaust valves, and allows an air/fuel mixture into the engine?",
+    "correct_answer": "Camshaft",
+    "incorrect_answers": ["Piston", "Drive shaft", "Crankshaft"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Comics",
+    "question": "In &quot;Homestuck&quot; the &quot;Kingdom of Darkness&quot; is also known as?",
+    "correct_answer": "Derse",
+    "incorrect_answers": ["Skaia", "Prospit", "The Medium"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Celebrities",
+    "question": "Paul McCartney has always used his middle name. What is his real first name? ",
+    "correct_answer": "James",
+    "incorrect_answers": ["John", "Jack", "Justin"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Sports",
+    "question": "Which car manufacturer won the 2017 24 Hours of Le Mans?",
+    "correct_answer": "Porsche",
+    "incorrect_answers": ["Toyota", "Audi", "Chevrolet"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Music",
+    "question": "What is the first Studio Album to be released on the Internet with a &quot;Pay-What-You-Want&quot; price?",
+    "correct_answer": "In Rainbows",
+    "incorrect_answers": [
+      "The Help Album",
+      "Skrillex and Diplo Present Jack &Uuml;",
+      "Blackstar"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Music",
+    "question": "Finish these lyrics from the 2016 song &quot;Panda&quot; by Desiigner: &quot;I got broads in _______&quot;.",
+    "correct_answer": "Atlanta",
+    "incorrect_answers": ["Savannah", "Augusta", "Marietta"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Comics",
+    "question": "Who is the second person to take up the mantle of Night Owl in the Watchmen graphic novel?",
+    "correct_answer": "Daniel Dreiberg",
+    "incorrect_answers": ["Nelson Gardner", "Hollis Mason", "Adrian Veidt"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Celebrities",
+    "question": "Which of these celebrities was not a member of the Jackson 5?",
+    "correct_answer": "Bo Jackson",
+    "incorrect_answers": ["Tito Jackson", "Jermaine Jackson", "Marlon Jackson"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Japanese Anime &amp; Manga",
+    "question": "What is the name of the stuffed lion in Bleach?",
+    "correct_answer": "Kon",
+    "incorrect_answers": ["Jo", "Urdiu", "Chad"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Video Games",
+    "question": "In Skylanders Giants, why was Zaps&#039; Wow Pow named &quot;For Riley&quot; ?",
+    "correct_answer": "As a tribute to a fan who passed away",
+    "incorrect_answers": [
+      "As a reference to a film",
+      "After one of the writers of the game",
+      "After a voice actor"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Television",
+    "question": "In the Netflix show, Stranger Things, what song would Will sing to himself as he was missing?",
+    "correct_answer": "Should I Stay or Should I Go?",
+    "incorrect_answers": [
+      "Love Will Tear Us Apart",
+      "This Charming Man",
+      "Africa"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Blinky, Pinky, Inky and Clyde are characters from which classic video game?",
+    "correct_answer": "Pac-Man",
+    "incorrect_answers": ["Gauntlet", "Space Invaders", "Street Fighter"]
+  }
+]
