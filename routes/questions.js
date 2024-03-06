@@ -1,5 +1,5 @@
 import { Router } from "express";
-// import * as controllers from "../controllers/questions.js";
+import * as controllers from "../controllers/questions.js";
 
 const router = Router();
 
