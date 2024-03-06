@@ -6,7 +6,7 @@ let QuestionSchema = new Schema({
     "type": { type: String },
     "difficulty": { 
                 type: String,
-                 enum: ["easy, medium, hard"]   
+                 enum: ["easy", "medium", "hard"]   
                 },
     "category": { type: String },
     "question": { type: String },
