@@ -3,12 +3,16 @@ import { Router } from "express";
 
 const router = Router();
 
-// router.get("/", controllers.getQuestions);
-// router.get("/:id", controllers.getQuestion);
-// router.get("/category/:category, controllers.getQuestionByCharacter);
-// router.get("/difficulty/:difficulty", controllers.getQuestion);
+router.get("/", controllers.getQuestions);
+router.get("/:id", controllers.getQuestion);
+router.get("/category/:category", controllers.getQuestionByCharacter)
+router.get("/difficulty/:difficulty", controllers.getQuestionbyDifficulty);
+
+// router.get("/", controllers.getQuestionbyCategoryAndId);  ?????
+
+router.post("/", controllers.createQuestion);
+router.put("/:id", controllers.updateQuestion);
+router.delete("/:id", controllers.deleteQuestion)
 
 
-// router.post("/", controllers.createCharacter);
-// router.put("/:id", controllers.updateCharacter);
-// router.delete("/:id", controllers.deleteCharacter)
+export default router;
